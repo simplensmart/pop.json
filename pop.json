@@ -1,0 +1,30 @@
+[
+    {
+        "id": "B.Tech",
+        "semister": [
+            {
+                "id":"1-1sem",
+                "regulation":{
+                    "id":"R16",
+                    "month":{
+                        "id":"Dec"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "M.Tech",
+        "semister": [
+            {
+                "id":"1-2sem",
+                "regulation":{
+                    "id":"R17",
+                    "month":{
+                        "id":"Jan"
+                    }
+                }
+            }
+        ]
+    }
+]
